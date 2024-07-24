@@ -12,21 +12,25 @@ export const aboutUsData = {
             title: 'Empowering individuals for holistic well-being',
             color: 'bg-[#008EFF]/40',
             style: 'absolute left-[-60%] max-w-[10rem]',
+            img: '/assets/aboutus/Group-1.png',
         },
         {
             title: 'Yoga Therapy for medical conditions like Neurology, Mental Health and many more',
             color: 'bg-[#45C646]/40',
             style: 'absolute right-[-70%] max-w-[14rem]',
+            img: '/assets/aboutus/Group-2.png',
         },
         {
             title: 'Creating a community of Yoga teachers for continuous education',
             color: 'bg-[#F23936]/40',
             style: 'absolute left-[-60%] top-[70%] max-w-[10rem]',
+            img: '/assets/aboutus/Group-3.png',
         },
         {
             title: 'Making yoga accessible for everyone',
             color: 'bg-[#FF9B00]/40',
             style: 'absolute max-w-[14rem] right-[-70%] top-[70%]',
+            img: '/assets/aboutus/Group-4.png',
         }
     ],
 }
